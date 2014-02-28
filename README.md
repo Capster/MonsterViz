@@ -8,11 +8,10 @@ Features
 ----------
 All code by Condarnad and Capster
 
-Preview
-__________
-![alt text](http://puu.sh/7br7W.png "Ingame")
+#####Preview
 
-Original
-__________
+![alt text](http://cloud-2.steampowered.com/ugc/3300315463573338701/B44DA7F066F3585E346C0B463C2E7CD915B15F8C/ "Ingame")
+
+#####Original
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/SQRIaztIf3E/0.jpg)](http://www.youtube.com/watch?v=SQRIaztIf3E)
