@@ -10,7 +10,7 @@ All code by Condarnad and Capster
 
 #####Preview
 
-![alt text](http://cloud-2.steampowered.com/ugc/3300315463573338701/B44DA7F066F3585E346C0B463C2E7CD915B15F8C/ "Ingame")
+![alt text](http://puu.sh/7fa0l.jpg "Ingame")
 
 #####Original
 
