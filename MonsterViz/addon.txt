@@ -1,0 +1,5 @@
+"AddonInfo"
+{
+	"name"        "MonsterViz"
+	"override"    "0"
+}
