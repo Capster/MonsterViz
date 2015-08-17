@@ -3,10 +3,6 @@ MonsterViz
 
 ###### In-game Garry's Mod bass visualizer
 
-Features
-----------
-All code by Condarnad and Capster
-
 #####Preview
 
 ![alt text](http://puu.sh/7fa0l.jpg "Ingame")
